@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jayesh Patel</h1>
 <h3 align="center">Computer Science and Engineering Student</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8a/2e/4c/8a2e4c79a1b9c983dc6bf8d6cbada43a.gif">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=durgeshy21&label=Profile%20views&color=0e75b6&style=flat" alt="durgeshy21" /> </p>
+<br>
 
 
 - 📫 How to reach me **jayeshpatel76200@gmail.com**
