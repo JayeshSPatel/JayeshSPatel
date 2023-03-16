@@ -2,7 +2,7 @@
 
 <!--
 **JayeshSPatel/JayeshSPatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img align="right" alt="Coding" width="400" src="gits.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8a/2e/4c/8a2e4c79a1b9c983dc6bf8d6cbada43a.gif">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
