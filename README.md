@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jayesh Patel</h1>
 <h3 align="center">Computer Science and Engineering Student</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8a/2e/4c/8a2e4c79a1b9c983dc6bf8d6cbada43a.gif">
+<img align="right" alt="Coding" width="400" src="">
 <br>
 
 
