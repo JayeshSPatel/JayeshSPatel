@@ -4,7 +4,7 @@
 <br>
 
 
-- 📫 How to reach me **jayeshpatel76200@gmail.com**
+- 📫 How to reach me **iam.jayesh.patel@hotmail.com**
 
 - ⚡ Fun fact **I am learner now**
 
